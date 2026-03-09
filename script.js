@@ -41,7 +41,7 @@ startButton.addEventListener("click", () => {
 
 function yesButtonListener(){
     document.body.innerHTML = "<div class='wrapper'><h2 class='question'>Yay! Thank you for loving me ❤️, "+input+ "!</h2>"+
-    "<img class='gif' alt='gif' src='https://media.giphy.com/media/fHGl1MDMNkO6fOaFDF/giphy.gif'/></div><script src='scriptMain.js'></script>"
+    "<img class='gif' alt='gif' src='https://giphy.com/gifs/crying-ronaldo-cr7-jr0rH7t8CXq9sVcSN1'/></div><script src='scriptMain.js'></script>"
     gifMain.src = "https://media.giphy.com/media/fHGl1MDMNkO6fOaFDF/giphy.gif";
 }
 
